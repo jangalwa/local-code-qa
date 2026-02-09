@@ -1,0 +1,8 @@
+transformers
+torch
+accelerate
+setuptools
+pytest
+huggingface
+ipython
+sentence-transformers
