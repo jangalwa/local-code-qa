@@ -2,6 +2,8 @@
 
 Privacy-first AI code assistant using small language models and agent skills. Runs entirely on local hardware with zero cloud dependencies.
 
+📊 **[View Detailed Experiment Results](experiment.html)** - Can SLMs replace GPT-4? See the data.
+
 ## Features
 
 - **Local execution** - No API keys, no data transmission
